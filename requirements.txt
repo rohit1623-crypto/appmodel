@@ -1,7 +1,8 @@
-Pandas
-NumPy
-Seaborn
-Matplotlib
+pandas
+numpy
+seaborn
+matplotlib
 scikit-learn
-Pickle
-Streamlit
+pickle
+streamlit
+
